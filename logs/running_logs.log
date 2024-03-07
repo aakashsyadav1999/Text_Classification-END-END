@@ -111,3 +111,7 @@ connection: close
 [2024-03-07 13:32:23,690: INFO: common: yaml file: params.yaml loaded successfully]
 [2024-03-07 13:32:23,693: INFO: common: created directory at: artifacts]
 [2024-03-07 13:32:23,695: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-07 13:38:43,686: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-07 13:38:43,708: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-07 13:38:43,711: INFO: common: created directory at: artifacts]
+[2024-03-07 13:38:43,718: INFO: common: created directory at: artifacts/data_validation]
