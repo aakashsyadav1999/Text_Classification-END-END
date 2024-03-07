@@ -132,3 +132,8 @@ connection: close
 [2024-03-07 14:28:09,616: INFO: common: yaml file: params.yaml loaded successfully]
 [2024-03-07 14:28:09,618: INFO: common: created directory at: artifacts]
 [2024-03-07 14:28:09,621: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-07 14:31:58,693: INFO: config: PyTorch version 2.2.1 available.]
+[2024-03-07 14:31:59,257: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-07 14:31:59,266: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-07 14:31:59,269: INFO: common: created directory at: artifacts]
+[2024-03-07 14:31:59,272: INFO: common: created directory at: artifacts/model_trainer]
